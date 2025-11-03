@@ -2,7 +2,7 @@ bibtexparser<=1.4.1 # up to date on 11-2023
 psutil<=5.9.6 # # up to date on 11-2023
 configparser==6.0.0; python_version >= '3.8' # up to date on 11-2023
 matplotlib==3.7.3; python_version == '3.8'
-matplotlib==3.8.1; python_version >= '3.9' # up to date on 11-2023
+matplotlib==3.10.7; python_version >= '3.9' # up to date on 11-2023
 pillow==12.0.0; python_version >= '3.8' # up to date on 11-2023
 numpy==1.24.4; python_version == '3.8'
 numpy==2.3.4; python_version >= '3.9' # up to date on 11-2023. Careful. Xmipp is compiled against numpy!
